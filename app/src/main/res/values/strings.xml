@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Drug Application</string>
+    <string name="add_drug">Add Drug</string>
+    <string name="drug_name_hint">Drug Name</string>
+    <string name="drug_description_hint">Drug Description</string>
+    <string name="save_drug">Save Drug</string>
+    <string name="doctor_name_hint">Doctor Name</string>
+    <string name="enter_location">Enter location</string>
+    <string name="view_drugs">View Active Drugs</string>
+    <string name="delete_drug">Delete Drug</string>
+    <string name="view_all_drugs">View all Drugs</string>
+    <string name="save_changes">Save Changes</string>
+    <string-array name="time_term_options">
+        <item>before-breakfast</item>
+        <item>at-breakfast</item>
+        <item>after-breakfast</item>
+        <item>before-lunch</item>
+        <item>at-lunch</item>
+        <item>after-lunch</item>
+        <item>before-dinner</item>
+        <item>at-dinner</item>
+        <item>after-dinner</item>
+    </string-array>
+
+</resources>
